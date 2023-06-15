@@ -3,10 +3,9 @@
 /**
  *  * main - Entry point
  *   *
- *    * Return: 0 to indicate successful program execution
+ *    * Return: Always 0 (Success)
  *     */
 int main(void)
 {
 	    return (0);
 }
-
