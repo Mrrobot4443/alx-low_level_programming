@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  * main - DUM_ Betty
- * Return : 0 main
+ * Return: 0
  */
 int main(void)
 {
