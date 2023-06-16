@@ -1,9 +1,8 @@
 #include<stdio.h>
-/*
- *print me this function 
- *and return 0
+/**
+ * main - Dum_Betty
+ * Return:0
 */
-
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
