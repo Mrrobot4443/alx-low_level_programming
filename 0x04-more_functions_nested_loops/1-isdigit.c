@@ -2,7 +2,7 @@
 /**
  * _isdigit - start
  * @c: var
- * Return: 1 if "c" it's upper
+ * Return: 1 if "c" between 0 & 9
  */
 int _isdigit(int c)
 {
