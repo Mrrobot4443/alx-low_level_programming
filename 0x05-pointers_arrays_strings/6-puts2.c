@@ -1,10 +1,8 @@
 #include "main.h"
 /**
  * puts2 - print all chars
- *
- * @str: char 
- *
- * Return: 0 
+ * @str: char
+ * Return: 0
  */
 void puts2(char *str)
 {
