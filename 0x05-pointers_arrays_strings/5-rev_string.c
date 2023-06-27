@@ -3,7 +3,7 @@
  * rev_string - reverse
  * _putchar - print char
  * @s: char
- * Return: 0 
+ * Return: 0
  */
 void rev_string(char *s)
 {
