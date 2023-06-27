@@ -1,6 +1,5 @@
 #include "main.h"
 #include<stdio.h>
-#include<string>
 /**
 * puts_half - print the half
 * @str: char
