@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _memset - 
+ * _memset - function is used to fill a block of memory with a specific value.
  * @s: memory area.
  * @b: constant byte.
  * @n: bytes filled.
