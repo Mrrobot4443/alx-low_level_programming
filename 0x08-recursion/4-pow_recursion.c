@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * _pow_recursion - function pow
- * @x:
- * @y:
+ * @x:ppppp
+ * @y:ppppp
  * Return: recursion
  */
 int _pow_recursion(int x, int y)
